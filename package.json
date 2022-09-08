@@ -1,0 +1,30 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start" :"nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+   
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TrungHere/NodeJS.git"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "firstNode"
+  ],
+  "author": "Trunghere",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TrungHere/NodeJS/issues"
+  },
+  "homepage": "https://github.com/TrungHere/NodeJS#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
